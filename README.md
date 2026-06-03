@@ -1,5 +1,16 @@
 # Zero Trust Network Segmentation & Enterprise Architecture
 
+## Key Highlights
+
+- Designed a Zero Trust architecture for a 1,500-user healthcare organization
+- Implemented 9 VLAN security zones
+- Designed vendor access controls using VPN and MFA
+- Created firewall policy matrices using least privilege principles
+- Integrated AWS and Azure security architectures
+- Developed risk assessment and compliance mapping
+- Built a Cisco Packet Tracer enterprise topology
+
+---
 ## Project Overview
 
 This capstone project demonstrates the design of a secure enterprise network architecture using Zero Trust principles for a healthcare organization. The solution secures critical systems, protects sensitive data, restricts vendor access, and improves visibility through network segmentation, firewall controls, MFA, SIEM monitoring, and cloud security integrations.
