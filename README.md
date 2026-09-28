@@ -1,6 +1,10 @@
-# Zero Trust Network Segmentation & Enterprise Architecture
+# Zero Trust Network Segmentation — Healthcare Enterprise Architecture
 
-## Key Highlights
+**Shiva Subedi** | Network Security • Zero Trust • Cisco • AWS • Azure • Risk Analysis
+
+> Capstone security architecture for a 1,500-user healthcare organization, combining network segmentation, least-privilege access, vendor security, monitoring and cloud architecture.
+
+## Project at a Glance
 
 - Designed a Zero Trust architecture for a 1,500-user healthcare organization
 - Implemented 9 VLAN security zones
@@ -11,9 +15,11 @@
 - Built a Cisco Packet Tracer enterprise topology
 
 ---
-## Project Overview
+## Business & Security Problem
 
-This capstone project demonstrates the design of a secure enterprise network architecture using Zero Trust principles for a healthcare organization. The solution secures critical systems, protects sensitive data, restricts vendor access, and improves visibility through network segmentation, firewall controls, MFA, SIEM monitoring, and cloud security integrations.
+Healthcare environments must support employees, clinical systems, servers, vendors, wireless users and internet-facing services without allowing unnecessary lateral access. This capstone designs a Zero Trust-oriented architecture that separates those trust zones and applies controlled access paths, monitoring and least-privilege principles.
+
+The solution uses VLAN segmentation, firewall policy design, VPN + MFA vendor access, DMZ architecture, SIEM/IDS concepts, risk analysis and AWS/Azure security architecture.
 
 ---
 
@@ -176,10 +182,15 @@ Project Report:
 
 ---
 
-## Author
+## Portfolio Connections
 
-**Shiva Subedi**
+- [Enterprise Windows Server & Active Directory Administration](https://github.com/shivasubedii/enterprise-windows-active-directory-lab)
+- [Microsoft 365 | Entra ID | Intune Administration](https://github.com/shivasubedii/microsoft-365-entra-intune-enterprise-lab)
+- [AutoSysAdmin — IT Systems Automation](https://github.com/shivasubedii/AutoSysAdmin)
 
-Computer Systems Technology
+## Interview Talking Points
 
-George Brown College
+I can explain the reasoning behind the nine security zones, how vendor access moves through MFA/VPN/firewall controls, how segmentation reduces lateral movement, how firewall policy should follow least privilege, and how monitoring and risk assessment support the architecture.
+
+---
+**Shiva Subedi** — Computer Systems Technology | Systems Administration | Networking | Cloud | Cybersecurity
